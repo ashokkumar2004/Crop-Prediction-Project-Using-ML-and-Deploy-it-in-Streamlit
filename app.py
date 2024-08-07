@@ -53,7 +53,7 @@ image_urls = [
     "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg",
     "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg",
     "https://t4.ftcdn.net/jpg/05/41/44/55/360_F_541445577_1i2kIGN20SH2Jy9gkkuIfPO2yWsOXNEQ.jpg",
-    "https://imagecdn.99acres.com/media1/24172/18/483458496M-1711965329646.jpg",
+    "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/media/images/coconut-cherrybeans/16954671-1-eng-GB/coconut-cherrybeans.jpg",
     "https://cdn.shopify.com/s/files/1/2694/3724/articles/Blog_Title_3_ba3adee4-747e-4de0-81a1-d0f08931f119_600x.jpg?v=1630947563",
     "https://thumbs.dreamstime.com/z/jute-plant-field-cultivation-assam-india-green-tall-plants-leaves-agricultural-crops-agriculture-asia-asian-background-154951730.jpg",
     "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/04/can_coffee_cause_cancer_1296x728_header-1024x575.jpg?w=1155&h=1528"
